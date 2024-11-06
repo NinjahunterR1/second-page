@@ -87,3 +87,11 @@ a {
   text-decoration: underline;
 
 }
+@media (max-width: 600px) {
+  /* Mobile-specific styles */
+  body, html {
+      padding: 0;
+      margin: 0;
+  }
+  /* Adjust container and font sizes */
+}
